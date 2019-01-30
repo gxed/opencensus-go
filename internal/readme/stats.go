@@ -13,7 +13,7 @@
 // limitations under the License.
 
 // Package readme generates the README.
-package readme // import "go.opencensus.io/internal/readme"
+package readme
 
 import (
 	"context"
