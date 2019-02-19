@@ -8,12 +8,6 @@
   },
   "gxDependencies": [
     {
-      "author": "golang",
-      "hash": "QmZHU2gx42NPTYXzw6pJkuX6xCE7bKECp6e8QcPdoLx8sx",
-      "name": "protobuf",
-      "version": "3.6.0"
-    },
-    {
       "author": "hsanjuan",
       "hash": "QmSE4FA7sWMuj8nyfi34NC36s5fXADpqiy25KKTZhpaK1v",
       "name": "go-cmp",
